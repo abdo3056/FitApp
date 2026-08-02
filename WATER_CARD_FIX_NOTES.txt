@@ -1,0 +1,7 @@
+Water card and slider fixes applied:
+- Slider value is clamped and rounded between 0 and 8.
+- Slider uses divisions: 8.
+- UI updates while dragging.
+- Firebase updates only in onChangeEnd.
+- Water card was redesigned to match Workout card spacing/height/style.
+- Light and dark mode contrast was improved.
