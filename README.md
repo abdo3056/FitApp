@@ -11,6 +11,8 @@ git clone [https://github.com/abdo3056/FitApp]
 cd FitApp
 flutter pub get
 flutter run
+```
+
 
 ## Can't go to the gym because of a busy schedule, long distances, or lack of motivation?
 ## No worries! We've got you covered.
