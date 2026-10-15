@@ -2,6 +2,16 @@
  Project idea: Practising in anytime at anywhere.
 Objective: Any user can get benefit with his time for body improvement. Also this project can be a strong substitute for gym to save some money. Moreover, instead of wasting much time on unuseful stuffs, this app can encourage him to enhance his health.
 
+## Getting Started 🛠️
+
+To run this project locally:
+
+```bash
+git clone [https://github.com/abdo3056/FitApp]
+cd FitApp
+flutter pub get
+flutter run
+
 ## Can't go to the gym because of a busy schedule, long distances, or lack of motivation?
 ## No worries! We've got you covered.
 ### Fit App helps you stay active anytime and anywhere. It provides a variety of exercises targeting different muscle groups, including the chest, arms, legs, and more.
